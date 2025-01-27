@@ -12,17 +12,17 @@ Dieses Projekt ist eine moderne Anwendung, die mit React und Apollo entwickelt w
 
 - **React (19.0.0)**: Framework zur Erstellung von Benutzeroberflächen.
 - **React Hook Form (v7.54.2)**: Bibliothek zur Verwaltung von Formularen.
-- **Tailwind CSS (v4.0.0)**: Dienstprogramm-basierter CSS-Framework für schnelle und reaktionsschnelle Designs.
+- **Tailwind CSS (v4.0.0)**: CSS-Framework für schnelle und responsivefähige Designs.
 
 ### **GraphQL**
 
-- **Apollo Client (v3.12.6)**: State-Management und GraphQL-Abfragen im Client.
+- **Apollo Client (v3.12.7)**: State-Management und GraphQL-Abfragen im Client.
 - **Apollo Server (v4.11.3)**: GraphQL-Server zur Bereitstellung von APIs.
 - **GraphQL (v16.10.0)**: Abfragesprache und Runtime zur API-Entwicklung.
 
 ### **Build- und Entwicklungs-Tools**
 
-- **Nx (v20.3.2)**: Monorepo-Tool zur Verwaltung und Optimierung von Workspaces.
+- **Nx (v20.3.3)**: Monorepo-Tool zur Verwaltung und Optimierung von Workspaces.
 - **Vite (v5.0.0)**: Superschneller Entwicklungs- und Build-Server.
 - **TypeScript (v5.6.2)**: Statische Typisierung für JavaScript.
 - **ESBuild (v0.19.2)**: Hochleistungs-Bundler.
@@ -101,7 +101,7 @@ Dieses Projekt ist eine moderne Anwendung, die mit React und Apollo entwickelt w
 
 ---
 
-## 🛠þ Entwicklungsskripte
+## 🛠 Entwicklungsskripte
 
 - **Backend starten:**
 
