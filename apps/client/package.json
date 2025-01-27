@@ -1,0 +1,11 @@
+{
+  "name": "@apollo-graphql-testing/client",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "nx": {
+    "name": "client",
+    "projectType": "application",
+    "sourceRoot": "apps/client/src"
+  }
+}
